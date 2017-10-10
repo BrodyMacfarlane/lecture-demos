@@ -1,4 +1,4 @@
-# Node 1 Lecture Demo
+# React Routing Lecture Demo
 This is a repo containing code and notes from WPR29's React Routing lecture demo.
 
 ### TOPICS-COVERED
